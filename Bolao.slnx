@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bolao.Application/Bolao.Application.csproj" />
+    <Project Path="src/Bolao.Domain/Bolao.Domain.csproj" />
+    <Project Path="src/Bolao.Infrastructure/Bolao.Infrastructure.csproj" />
+    <Project Path="src/Bolao.Web/Bolao.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bolao.Tests/Bolao.Tests.csproj" />
+  </Folder>
+</Solution>
